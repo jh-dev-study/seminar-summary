@@ -2,8 +2,8 @@
 유쾌한 스프링방에서 탄생한 유스콘'20은 👨‍🎓 젊은 개발자와 👨‍🏫 선배 개발자가 함께 
 가치 있는 기술에 관한 정보와 경험을 공유하는 콘퍼런스입니다. 
 여기서 발표하는 사람들을 잘 기억해 주세요. 
-가까운 미래에는 DEVIEW, if(kakao), SPRINGCAMP의 주인공이 될 개발자입니다.
-공지 링크: [`노션`]
+가까운 미래에는 DEVIEW, if(kakao), SPRINGCAMP의 주인공이 될 개발자입니다.  
+자세한 링크: [`https://www.notion.so/YOUTHCON-20-b8a935551bf7453e93394d03f00e9840`]
 <br><br>
 
 
@@ -99,6 +99,6 @@
 
 
 
-[`노션`]: https://www.notion.so/YOUTHCON-20-b8a935551bf7453e93394d03f00e9840
+[`https://www.notion.so/YOUTHCON-20-b8a935551bf7453e93394d03f00e9840`]: https://www.notion.so/YOUTHCON-20-b8a935551bf7453e93394d03f00e9840
 [`https://github.com/boorownie/spring-boot-blog`]: https://github.com/boorownie/spring-boot-blog
 [`https://github.com/MorrisHong/youthconn-demo`]: https://github.com/MorrisHong/youthconn-demo
