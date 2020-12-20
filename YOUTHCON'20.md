@@ -62,7 +62,6 @@
     프로젝트 설정부터 기능 구현을 하는 과정에서 생기는 궁금증과 깨달음을 함께 나누어 보아요.
 
   저장소: [`https://github.com/boorownie/spring-boot-blog`]
-  참고: [`https://github.com/boorownie/spring-boot-blog`]
 </details>
 
 
@@ -104,4 +103,3 @@
 [`https://www.notion.so/YOUTHCON-20-b8a935551bf7453e93394d03f00e9840`]: https://www.notion.so/YOUTHCON-20-b8a935551bf7453e93394d03f00e9840
 [`https://github.com/boorownie/spring-boot-blog`]: https://github.com/boorownie/spring-boot-blog
 [`https://github.com/MorrisHong/youthconn-demo`]: https://github.com/MorrisHong/youthconn-demo
-[`https://github.com/boorownie/spring-boot-blog`]: https://github.com/boorownie/spring-boot-blog
